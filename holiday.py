@@ -1,6 +1,6 @@
 str=raw_input('Enter the day: ')
 holiday="Sunday"
 if(str==holiday):
-	print 'Holiday'
+	print 'False'
 else:
-	print 'Working day'
+	print 'True'
